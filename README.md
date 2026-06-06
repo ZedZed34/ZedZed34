@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Billy! 👋
 
-<!--
-**ZedZed34/ZedZed34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer currently based in Bangkok, creating solid backend architectures and responsive user interfaces. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, JavaScript/TypeScript, Java
+* **Frameworks:** React, Svelte, Django, Spring
+* **Tools:** Docker, VS Code, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 🔭 Currently working on full-stack web applications and refining my local development environments.
+* 🌱 Exploring open-source contributions.
+* ⚡ Fun fact: When I'm not coding, I'm probably catching up on Boruto or playing the Batman: Arkham series.
+
+### 📫 Let's Connect
+* LinkedIn: [Your Link Here]
+* Portfolio: [Your Portfolio Link]
