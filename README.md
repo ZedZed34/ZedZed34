@@ -14,7 +14,8 @@
 ### 🚀 What I'm Up To
 * 🔭 Currently working on full-stack web applications and refining my local development environments.
 * 🌱 Exploring open-source contributions.
-* ⚡ Fun fact: When I'm not coding, I'm probably catching up on Boruto or playing the Batman: Arkham series.
+* 💼 Looking for a very promising job in Singapore and Bangkok.
+* ⚡ Fun fact: When I'm not coding, I'm probably catching up on One Piece or playing the Batman: Arkham series.
 
 ### 📫 Let's Connect
 * LinkedIn: https://www.linkedin.com/in/htet-lin-aung-5159491a0
