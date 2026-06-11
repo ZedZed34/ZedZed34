@@ -1,8 +1,8 @@
-<div align="center">
+<h1 align="center">
   
-# Hi there, I'm Billy! 👋  
+Hi there, I'm Billy! 👋  
 
-</div>
+</h1>
 
 ### I'm a Full Stack Developer currently based in Bangkok, creating scalable software architectures and responsive user interfaces.
 
