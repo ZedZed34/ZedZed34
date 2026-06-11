@@ -1,15 +1,15 @@
-<div align="center">
+<h1 align="center">
   
-# Hi there, I'm Billy! 👋  
+Hi there, I'm Billy! 👋  
 
-</div>
+</h1>
 
 ### I'm a Full Stack Developer currently based in Bangkok, creating scalable software architectures and responsive user interfaces.
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, JavaScript, Java, Golang, HTML, CSS, MongoDB, SQL
 * **Frameworks:** React.js, React Native, Sveltekit, Django, Spring, Gin, Node.js, Express.js, PostgreSQL
-* **Others:** Docker, VS Code, Git, CI/CD, JetBrains, Trello, Agile
+* **Others:** Docker, VS Code, Git, CI/CD, JetBrains, ClickUp, Agile
 
 ### 🚀 What I'm Up To
 * 🔭 Currently working on full-stack web applications and refining my local development environments.
@@ -20,3 +20,11 @@
 ### 📫 Let's Connect
 * LinkedIn: https://www.linkedin.com/in/htet-lin-aung-5159491a0
 * Portfolio: https://hla-portfolio.vercel.app
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZedZed34)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZedZed34&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
